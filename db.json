@@ -217,30 +217,7 @@
     }
   ],
   "cvs": [
-    {
-      "idcv": 1,
-      "idJob": 1,
-      "idCompany": 2,
-      "createAt": "09-10-2024 22:23:40",
-      "id": 1,
-      "statusRead": true
-    },
-    {
-      "idcv": 1,
-      "idJob": 6,
-      "idCompany": 2,
-      "createAt": "09-10-2024 22:23:49",
-      "id": 2,
-      "statusRead": true
-    },
-    {
-      "idcv": 4,
-      "idJob": 1,
-      "idCompany": 2,
-      "createAt": "09-10-2024 22:57:07",
-      "id": 3,
-      "statusRead": true
-    }
+   
   ],
   "companys": [
     {
@@ -394,101 +371,13 @@
       "token": "05dxa9HTEUFMgvtQJRWu",
       "role": "admin",
       "id": 7
-    },
-    {
-      "nameUser": "dung",
-      "email": "dung@gmail.com",
-      "phone": "12312",
-      "password": "1",
-      "token": "9oUg6AR63x8EqcEGxwu4",
-      "role": "user",
-      "id": 8
     }
+    
   ],
   "skill": [],
   "education": [],
   "cv": [
-    {
-      "nameUser": "dung",
-      "jobPosition": "leader",
-      "phone": "12312",
-      "email": "dung@gmail.com",
-      "careerObjectives": [
-        {}
-      ],
-      "workExperience": [
-        {}
-      ],
-      "education": [
-        {}
-      ],
-      "awards": [
-        {}
-      ],
-      "certificates": [
-        {}
-      ],
-      "skills": [
-        {}
-      ],
-      "updateAt": "09-10-2024 22:18:21",
-      "idUser": 8,
-      "id": 1
-    },
-    {
-      "nameUser": "Dũng gió tai",
-      "jobPosition": "ăn hại",
-      "phone": "12312",
-      "email": "dung@gmail.com",
-      "careerObjectives": [
-        {}
-      ],
-      "workExperience": [
-        {}
-      ],
-      "education": [
-        {},
-        {}
-      ],
-      "awards": [
-        {}
-      ],
-      "certificates": [
-        {}
-      ],
-      "skills": [
-        {}
-      ],
-      "updateAt": "09-10-2024 22:30:53",
-      "idUser": 8,
-      "id": 3
-    },
-    {
-      "nameUser": "Nguyễn Viết Khánh",
-      "phone": "09876543211",
-      "email": "khanh@gmail.com",
-      "careerObjectives": [
-        {}
-      ],
-      "workExperience": [
-        {}
-      ],
-      "education": [
-        {}
-      ],
-      "awards": [
-        {}
-      ],
-      "certificates": [
-        {}
-      ],
-      "skills": [
-        {}
-      ],
-      "updateAt": "09-10-2024 23:23:37",
-      "idUser": 1,
-      "id": 4
-    }
+   
   ],
   "experience": [],
   "certificate": [],
